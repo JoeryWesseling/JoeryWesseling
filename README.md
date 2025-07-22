@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Student at the HAN University of Applied Scienses.<br>Data solutions Development
 
 
